@@ -3,6 +3,8 @@ $sConfigFile = 'conf/production/config-itop.php';
 $sStartPage = './pages/UI.php';
 $sSetupPage = './setup/index.php';
 
+//Me making a new comment
+
 /**
  * Check that the configuration file exists and has the appropriate access rights
  * If the file does not exist, launch the configuration wizard to create it
